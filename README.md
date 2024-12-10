@@ -5,4 +5,4 @@ App that support extensions or plugin in android app
 
 
 # [App Home Screen]
-<img src="https://github.com/rauniyarpriyanshu/ExtensionAndroidApp/blob/main/screenshot/AppScreen1.jpg" width="50%">
+<img src="https://github.com/rauniyarpriyanshu/ExtensionAndroidApp/blob/main/screenshot/AppScreen1.jpg" width="30%">
